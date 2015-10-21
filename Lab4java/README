@@ -1,0 +1,14 @@
+CS3790
+Lab assignment 4
+The Java threads half
+
+Zacahry Lapointe
+
+To run and compile type:
+make
+
+then:
+java Threadfun <int> <int>
+
+Where first int is number of threads and the second is the number you are searching for primes before.
+Only accepts integers for inputs but does have some error checking.

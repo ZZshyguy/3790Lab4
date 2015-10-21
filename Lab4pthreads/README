@@ -1,0 +1,15 @@
+CS3790
+
+Zachary Lapointe
+
+Lab assignment 4
+
+This is the pthreads half of it.
+
+To run type:
+make
+then:
+./threadfun <int> <int>
+
+Where the first int is the number of threads you want and the second is the prime you want to search towards.
+This program has no error checking for negative numbers or non integers so don't screw up the inputs.
